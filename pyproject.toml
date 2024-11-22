@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cassini-2024-delete"
+version = "0.1.0"
+description = "Project for Hackathon Cassini 2024 - Team \"DELETE\""
+authors = ["Damian Kobyliński <damiankob12@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.40.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
