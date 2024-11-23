@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "School No.1 in Rzeszow",
+        "location": "basement",
+        "availablePlaces": 300,
+        "coordinates": [
+            50.025,
+            22.345
+        ],
+        "users": []
+    },
+    {
+        "id": 2,
+        "name": "Sports hall in Krakow",
+        "location": "ground floor",
+        "availablePlaces": 500,
+        "coordinates": [
+            50.067,
+            19.912
+        ],
+        "users": []
+    },
+    {
+        "id": 3,
+        "name": "City Hall in Warsaw",
+        "location": "underground",
+        "availablePlaces": 400,
+        "coordinates": [
+            52.231,
+            21.006
+        ],
+        "users": []
+    }
+]

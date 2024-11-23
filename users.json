@@ -1,0 +1,41 @@
+[
+    {
+        "pesel": "02232800863",
+        "firstName": "Anna",
+        "lastName": "Kowalska",
+        "lastLocation": {
+            "coordinates": [
+                50.123,
+                22.345
+            ],
+            "name": "Rzesz\u00f3w, Centrum"
+        },
+        "shelter": null
+    },
+    {
+        "pesel": "01132807078",
+        "firstName": "Robert",
+        "lastName": "Drewno",
+        "lastLocation": {
+            "coordinates": [
+                50.567,
+                19.987
+            ],
+            "name": "Krak\u00f3w, Stare Miasto"
+        },
+        "shelter": null
+    },
+    {
+        "pesel": "06242807862",
+        "firstName": "Barbara",
+        "lastName": "Nowak",
+        "lastLocation": {
+            "coordinates": [
+                49.678,
+                22.456
+            ],
+            "name": "Jaros\u0142aw, Rynek"
+        },
+        "shelter": null
+    }
+]
