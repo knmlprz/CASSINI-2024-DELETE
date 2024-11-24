@@ -1,0 +1,14 @@
+[
+  { "lat":  50.03965666359562, "lon": 22.00923728990469, "tags": "Twoja lokalizacja", "icon":{
+    "url": "https://i.imgur.com/RSGLn7v.png",
+    "width": 252,
+    "height": 252,
+    "anchorY": 242
+  }},
+  { "lat":  50.03786872013036, "lon": 22.00363581536894550, "tags": "Miejsce zbiórki", "icon":{
+    "url": "https://i.imgur.com/32NeGYD.png",
+    "width": 252,
+    "height": 252,
+    "anchorY": 242
+  }}
+]
